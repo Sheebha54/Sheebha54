@@ -5,7 +5,8 @@
 
 💬 Ask me about C programming or embedded projects.  
 
-📫 Connect with me: [LinkedIn][https://www.linkedin.com/in/sheebha-m54/] | [Email][esthersheebha54@gmail.com]
+📫 Connect with me: [LinkedIn][https://www.linkedin.com/in/sheebha-m54/] 
+                    [Email][esthersheebha54@gmail.com]
 ---
 
 ## 🛠 Technical Skills
